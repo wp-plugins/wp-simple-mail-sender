@@ -56,4 +56,4 @@ Navigate to Settings -> WP Single Email and change the values as you wish.
 * Initial Release.
 
 == Upgrade Notice ==
-
+.
